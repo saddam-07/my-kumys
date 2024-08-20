@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-kumys/static/css/main.694eeb0f.css",
+    "main.js": "/my-kumys/static/js/main.95bd4ba6.js",
+    "static/media/slider.jpeg": "/my-kumys/static/media/slider.3409832917cb8b8c2260.jpeg",
+    "static/media/1.jpg": "/my-kumys/static/media/1.6b1d336394a9241f31f5.jpg",
+    "static/media/eb995f.jpg": "/my-kumys/static/media/eb995f.a4380c4361eb6527955d.jpg",
+    "static/media/aboutus.jpg": "/my-kumys/static/media/aboutus.4a2aa121f6321d612d02.jpg",
+    "static/media/2.jpg": "/my-kumys/static/media/2.6363afd7cc371298d5c3.jpg",
+    "static/media/3.jfif": "/my-kumys/static/media/3.22df345cb347c22963b1.jfif",
+    "static/media/4.jfif": "/my-kumys/static/media/4.9d5b1ff52f78fa3fa846.jfif",
+    "index.html": "/my-kumys/index.html",
+    "main.694eeb0f.css.map": "/my-kumys/static/css/main.694eeb0f.css.map",
+    "main.95bd4ba6.js.map": "/my-kumys/static/js/main.95bd4ba6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.694eeb0f.css",
+    "static/js/main.95bd4ba6.js"
+  ]
+}
